@@ -8,7 +8,7 @@ Eesmärk: kasutaja allkirjastab ja saadab akti; hiljem jõuab mõlemapoolselt al
 2. Lae akt alla
 3. Allkirjasta akt
 4. Lae allkirjastatud akt üles
-5. Saada akt teisele osapoolele
+5. Saada akt teisele osapoo
 >>>>
 6. Vastus jõuab tagasi
 7. Mõlemapoolselt allkirjastatud fail lisandub automaatselt akti alla

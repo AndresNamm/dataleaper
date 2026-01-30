@@ -1,6 +1,8 @@
 
 # TODO
 
-1. [x] vaata üle smaragda kõik asjad 5 mintsa igaüks
-2. [] tee edasine plaan 
-
+0. [ ] Mõtle natuke akti allkirjastamise töövoo peale
+1. [ ] Mariliniga suhelda + Ettevõtluskonsultant
+2. [ ] Tõnisega 13.00 koosolek
+3. [ ] Janekuga 15.00 koosolek
+4. [ ] Segmenteerimise plaan 
